@@ -55,73 +55,45 @@ The goal of the project was to assess the heterogeneity of the cancer tissue dis
 
 # Skills
 
-Python - long-term experience, I have been developing in Python since 2017. Applications developed ranged from complex Machine Learning and Data Science pipelines, through scripting and automation scripts, to backend systems in FastAPI, Flask, and Django. multiprocessing programming, joblib,
+## Programming Languages
 
-Python Data Science Stack - NumPy, Pandas, sciPy, scikit-learn, XGBoost, statsmodels, matplotlib, seaborn, plotly,  pandas-gbq, Dask, venv, Jupyter Notebook
+<b>Python</b> - long-term experience, I have been developing in Python since 2017. Applications developed ranged from complex Machine Learning and Data Science pipelines, through scripting and automation scripts, to backend systems in FastAPI, Flask, and Django. multiprocessing programming, joblib,
 
-Computer Vision - scikit-image, openCV
+<b>SQL</b> - long-term experience, started in 2016. I used SQL in OLTP such as SQL Server, MySQL, PostgreSQL and also OLAP such as BigQuery.
 
-Machine Learning Stack - scikit-learn, Tensorflow, PyTorch, huggingface, Onnx
+<b>Java</b>
 
-SQL - long-term experience, started in 2016. I used SQL in OLTP such as SQL Server, MySQL, PostgreSQL and also OLAP such as BigQuery.
+<b>C++</b>
 
-MLOps tools - Polyaxon, MLFlow, streamlit, Dash, KubeFlow,  DVC, Airflow, Luigi, poetry
+<b>C#</b>
 
-Medical Toolkit - pynrrd, SimpleITK, pydicom
+<b>Kotlin</b>
 
-ML-focused Design Patterns
+## Python-oriented Stack
 
-Backend stack - FastAPI, Flask, Django
+<b>Python Data Science Stack</b> - NumPy, Pandas, sciPy, scikit-learn, XGBoost, statsmodels, matplotlib, seaborn, plotly,  pandas-gbq, Dask, venv, Jupyter Notebook
 
-Standard Dev toolkit - Git, Zsh, JIRA, Confluence
+<b>Computer Vision</b> - scikit-image, openCV
 
+<b>Machine Learning Stack</b> - scikit-learn, Tensorflow, PyTorch, huggingface, Onnx
 
-Java
+<b>MLOps tools</b> - Polyaxon, MLFlow, streamlit, Dash, KubeFlow,  DVC, Airflow, Luigi, poetry, Atlantis, Github Actions, CI/CD pipelines, Terraform, Docker, Kubernetes
 
-C++
+<b>Medical Toolkit</b> - pynrrd, SimpleITK, pydicom
 
-C#
+<b>ML-focused Design Patterns</b>
 
-Kotlin
+<b>Backend stack</b> - FastAPI, Flask, Django
 
-Terraform
+<b>Standard Development toolkit</b> - Git, Zsh, JIRA, Confluence, Slack,
 
-Docker
+<b>Google Cloud Platform (GCP)</b>: BigQuery, Vertex AI, Google Cloud Storage (GCS), Google Container Registry
 
-Kubernetes
-
-Atlantis
-
-
-
-## GCP
-
-BigQuery
-
-Vertex AI
-
-GCS
-
-GCR
-
-## AWS
-
-AWS Lambda
-
-EC2
-
-ECR
-
-ECS
-
-AWS Batch
-
-AWS SageMaker
+<b>Amazon Web Services (AWS)</b>: AWS Lambda, EC2, Elastic Container Registry (ECR), S3, Elastic Container Service (ECS), AWS SageMaker
 
 ## Soft skills
 
-
-
+# Work experience
 
 Sep 2016 - Oct 2019 - Software Developer in Diebold-Nixdorf
 Implementing solutions for Point of Sale (PoS) 
