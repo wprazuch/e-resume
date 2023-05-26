@@ -38,7 +38,7 @@ For the client's company, the goal was to increase the activation rate of churni
 ### Circa
 The system was developed thanks to rich, diverse dataset of X-ray images of patients from hospitals across Poland.
 ### Astral
-
+This project was performed in collaboration with 
 ### Covrad
 
 ### Brain Motion Correction
@@ -48,7 +48,7 @@ The goal of the project was to assess the heterogeneity of the cancer tissue dis
 
 # Main Skills
 
-- ability to conduct research, read research papers
+- Ability to conduct research, read research papers
 - Python
 - Machine Learning
 - Software Engineering
@@ -57,73 +57,65 @@ The goal of the project was to assess the heterogeneity of the cancer tissue dis
 
 ## Programming Languages
 
-<b>Python</b> - long-term experience, I have been developing in Python since 2017. Applications developed ranged from complex Machine Learning and Data Science pipelines, through scripting and automation scripts, to backend systems in FastAPI, Flask, and Django. multiprocessing programming, joblib,
-
+<b>Python</b> - long-term experience, I have been developing in Python since 2017. Applications developed ranged from complex Machine Learning and Data Science pipelines, through scripting and automation scripts, to backend systems in FastAPI, Flask, and Django. multiprocessing programming, joblib.
 <b>SQL</b> - long-term experience, started in 2016. I used SQL in OLTP such as SQL Server, MySQL, PostgreSQL and also OLAP such as BigQuery.
-
-<b>Java</b>
-
-<b>C++</b>
-
-<b>C#</b>
-
-<b>Kotlin</b>
+<b>Java</b> -  Where I developed backend solutions for Java EE and some demo applications in Spring and Spring Boot.
+<b>C++</b> - Where I implemented many common algorithms and data structures from scratch, such as Tetris, Chess games, or some computer graphics transformations and methods. 
+<b>C#</b> - Where I was working professionally for 3 years, and implemented many plug-in applications for Point-of-Sale systems, such as loyalty cards, payment methods, and inventory management views.
+<b>Kotlin</b> - Where I had occassion to translate some common Machine Learning operations and models for mobile solutions. For one of the projects, I translated and converted the SOTA OCR system for mobile application, where both performance and low computational complexity are most important.
 
 ## Python-oriented Stack
 
-<b>Python Data Science Stack</b> - NumPy, Pandas, sciPy, scikit-learn, XGBoost, statsmodels, matplotlib, seaborn, plotly,  pandas-gbq, Dask, venv, Jupyter Notebook
+<b>Python Data Science Stack</b> - NumPy, Pandas, sciPy, scikit-learn, XGBoost, statsmodels, matplotlib, seaborn, plotly,  pandas-gbq, Dask, venv, Jupyter Notebook, Numba
 
-<b>Computer Vision</b> - scikit-image, openCV
+<b>Computer Vision</b> - scikit-image, openCV, Pillow
 
-<b>Machine Learning Stack</b> - scikit-learn, Tensorflow, PyTorch, huggingface, Onnx
+<b>Machine Learning Stack</b> - scikit-learn, Tensorflow, Keras, PyTorch, huggingface, Onnx
 
-<b>MLOps tools</b> - Polyaxon, MLFlow, streamlit, Dash, KubeFlow,  DVC, Airflow, Luigi, poetry, Atlantis, Github Actions, CI/CD pipelines, Terraform, Docker, Kubernetes
+<b>MLOps tools</b> - Polyaxon, MLFlow, streamlit, Dash, KubeFlow,  DVC, Airflow, Luigi, poetry, Atlantis, Github Actions, CI/CD pipelines, Terraform, Docker, Kubernetes, Tensorboard,
 
-<b>Medical Toolkit</b> - pynrrd, SimpleITK, pydicom
+<b>Medical Toolkit</b> - PyNrrd, SimpleITK, PyDicom, Nibabel
 
-<b>ML-focused Design Patterns</b>
+<b>ML-focused Design Patterns - </b>
 
 <b>Backend stack</b> - FastAPI, Flask, Django
 
-<b>Standard Development toolkit</b> - Git, Zsh, JIRA, Confluence, Slack,
+<b>Standard Development Toolkit</b> - Git, Zsh, JIRA, Confluence, Slack,
 
-<b>Google Cloud Platform (GCP)</b>: BigQuery, Vertex AI, Google Cloud Storage (GCS), Google Container Registry
+<b>Google Cloud Platform (GCP)</b> - BigQuery, Vertex AI, Google Cloud Storage (GCS), Google Container Registry (GCR)
 
-<b>Amazon Web Services (AWS)</b>: AWS Lambda, EC2, Elastic Container Registry (ECR), S3, Elastic Container Service (ECS), AWS SageMaker
+<b>Amazon Web Services (AWS)</b> - AWS Lambda, EC2, Elastic Container Registry (ECR), S3, Elastic Container Service (ECS), AWS SageMaker
 
 ## Soft skills
+
+At university, I conducted many seminars aimed to describe the scientific work I was doing. Some of my seminars topics included: clustering algorithms for mass spectrometry imaging, visualization techniques for high-dimensional data, image processing pipelines for microscope array data, lung cancer domain problems, Machine Learning systems and challenges for lung cancer screening and identification.
+
+At work, I conducted many seminars where I showed both practical and theoretical subjects from Machine Learning domain. Some of them included scientific paper reviews, MLOps tools live demos, or 
+
+Moreover, I had occassion to conduct live presentations where I described common breakthrough achievements of AI, such as DeepFakes, in layman's terms.
 
 # Work experience
 
 Sep 2016 - Oct 2019 - Software Developer in Diebold-Nixdorf
 Implementing solutions for Point of Sale (PoS) 
 
+Oct 2019 - May 2023 - PhD Candidate at Silesian University of Technology (SUT)
+
+Dec 2020 - June 2022 - Machine Learning Engineer at Netguru
+
+July 2022 - present - Senior Machine Learning Engineer at Netguru
 
 # Professional Activities
 
 My educational experience focused on many courses at Silesian University of Technology
 
-- Fundamentals of Computer Programming - where I taught freshmen about the basics of C language, such as conditional statements, for loops, functions, structures, algorithms and data structures.
-- Optimization and Decision Making
-- Probability and Statistics
-- Bioinformatics and Biostatistics
-- Optimization Methods
-- Statistical Learning
-- Deep Learning in Data Science
-
-
-Deep Learning in Data Science
-
-- Introduction to Jupyter Notebooks and Tensorflow
-- Feed-forward networks
-- Convolutional Neural Networks
-- Convolutional Neural Networks 2
-- Generative Adversarial Networks
-- Recurrent Neural Networks
-- Style Transfer
-- Hyperparameter Tuning
-- Transfer Learning
-- Multi-task Learning
+- <b>Fundamentals of Computer Programming</b> - where I taught freshmen about the basics of C language, such as conditional statements, for loops, functions, structures, algorithms and data structures.
+- <b>Optimization and Decision Making</b>
+- <b>Probability and Statistics</b>
+- <b>Bioinformatics and Biostatistics</b>
+- <b>Optimization Methods</b>
+- <b>Statistical Learning</b>
+- <b>Deep Learning in Data Science</b> - I created the laboratory syllabus and contents together with my colleagues. Some of the lab topics are: Introduction to Jupyter Notebooks and Tensorflow, Feed-forward networks, Convolutional Neural Networks, Convolutional Neural Networks 2, Generative Adversarial Networks, Recurrent Neural Networks, Style Transfer, Hyperparameter Tuning, Transfer Learning, Multi-task Learning
 
 ## Certifications
 
@@ -178,4 +170,28 @@ Solving static optimization problem using modified Kuhn-Tucker conditions [link]
 
 How to easily improve model’s performance with standardization [link](https://wprazuch.medium.com/how-to-easily-improve-the-models-performance-with-standardization-c3da6eaa68d6)
 
+# Open-source Contributions
+
+[google/gin-config](https://github.com/google/gin-config) - Where we introduced [pickled configs](https://github.com/google/gin-config/pull/48)
+
+
+# Personal Projects
+
+Mail & SMS Spam Detection [link](https://github.com/wprazuch/spam-detection) - In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data. I have also created a simple endpoint in Flask to communicate with the model.
+
+Face Mask Detection [link](https://github.com/wprazuch/face-mask-detection) - In this project, I created a face mask detection system that checks, whether a person wears a face mask or not. Again, you can communicate with the model using REST API written in Flask - an example client is shown in the repo.
+
+Automatic Stack Exchange Tagging [link](https://github.com/wprazuch/stack-overflow-tags) - The intention of the project was to create an automated way of tagging questions raised by users on Stack Exchange.
+
+Face recognition [link](https://github.com/wprazuch/face-recognition) - The goal of the project was to recognize faces given in the photo. A pretrained face recognition model was used to generate embeddings for each face provided.
+
+IMDb Movie Reviews [link](https://github.com/wprazuch/imdb-movie-reviews) - This project showed how to build a model for a simple Sentiment Analysis task for IMDb Movie Reviews data.
+
+Deep Learning from Scratch [link](https://github.com/wprazuch/deep-learning-from-scratch) - In this project, I started from scratch in coding some simple neural networks and applying backpropagation to train them.
+
+Stock Price Prediction [link](https://github.com/wprazuch/stock-price-prediction) - Common deep learning architectures to predict stock price from real-world data.
+
+Music Genre Classification [link](https://github.com/wprazuch/music-genre-classification) - Predicting music genre using ML algorithms. Some EDA was provied as well.
+
+Twitter Sentiment Analysis [link](https://github.com/wprazuch/twitter-posts-sentiments) - Classification of Tweet sentiments together with EDA.
 
