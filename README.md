@@ -8,7 +8,6 @@ My professional experience started as a part-time Software Developer for .NET fr
 
 My adventure with Machine Learning started on my MSc studies, where I started working with mass spectrometry data to create automated heterogeneity assessment system for Head & Neck cancer tumours. Next, I joined the PhD program to develop a system for early lung cancer detection from low-dose CT images.
 
-Next, I decided to try my skills in academia, where I joined the PhD program for implementing automated system of lung cancer identification in low-dose CT.
 
 # Social media
 I publish from time to time some news about my area of expertise. I have also provided some short articles from area of Data Science and Mathematics.
