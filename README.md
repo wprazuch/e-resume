@@ -6,7 +6,7 @@ Machine Learning passionate, currently working as a Senior Machine Learning Engi
 
 My professional experience started as a part-time Software Developer for .NET framework as additional income during my Bachelor and MSc studies. I was working with Point of Sale (PoS) applications for large retail fashion chains, where customer service application was built to handle loyalty systems, discounts and transactions. During this time, I had occassion to work with great Software Architects and Software Engineers and gained good knowledge about rituals in IT as well as design patterns and big IT systems.
 
-My adventure with Machine Learning started 
+My adventure with Machine Learning started on my MSc studies, where I started working with mass spectrometry data to create automated heterogeneity assessment system for Head & Neck cancer tumours. Next, I joined the PhD program to develop a system for early lung cancer detection from low-dose CT images.
 
 Next, I decided to try my skills in academia, where I joined the PhD program for implementing automated system of lung cancer identification in low-dose CT.
 
@@ -31,17 +31,19 @@ The project was conducted for one of the biggest real estate companies in the Un
 For the client's company, the goal was to increase the activation rate of churning customers on the platform. Specific rules defined different customer churn segments. For each customer at those groups, the goal was to incentivize the customer by sending the voucher. The value of the voucher ranged, and depending on customer's profile, the goal was to send such voucher which would be attractive enough to make an order. The system aimed to balance between the cost reduction for the company and activation maximization under a specific budget.
 
 ### Customer Lifecycle Segmentation
+For one of the biggest delivery platforms around the world, I developed an intelligent system of client incentivization based on sales patterns in different countries. The functionality causes a net profit of 14 million euros each year for the company.
 
 ### Next Best Action
-
+The holy grail of retail companies, where the system itself decides on best strategy to target customers. One of the metrics we used is the net increase. I put the foundation on the system, and the project is still being developed.
 
 ### Circa
-The system was developed thanks to rich, diverse dataset of X-ray images of patients from hospitals across Poland.
+The system was developed thanks to rich, diverse dataset of X-ray images of patients from hospitals across Poland. The goal was to identify pneumona in the images caused by COVID-19 disease specifically. We applied various techniques for bias reduction and model explainability.
 ### Astral
-This project was performed in collaboration with 
+This project was performed in collaboration with Universitatsklinikum in Essen, Germany, where I developed an application in Airflow for analysis and reporting of microscopis image sequences for astrocyte communication in mice brain.
 ### Covrad
-
+The goal of the porject was to assess the severity of Covid-19 pneumonia patients in CT scans in terms of different pneumonial patterns and side effects of the disease inside lung parenchyma.
 ### Brain Motion Correction
+This project was done in collaboration with Henry Ford Hospital in Detroit, where motion correction algorithms were applied for MRI scans of mice brains being targeted with various hemorrhage treatments.
 
 ### Mass Spectrometry Imaging
 The goal of the project was to assess the heterogeneity of the cancer tissue dissected from Head and Neck cancer patients. An algorithm, based on unsupervised, hierarchical clustering, based on K-Means with automatic k tuning, was created. The system produced the analytics about the heterogeneity of the tissue, thus giving information about possible difficulty of cancer treatment.
