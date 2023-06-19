@@ -67,7 +67,7 @@ The goal of the project was to assess the heterogeneity of the cancer tissue dis
 
 ## Python-oriented Stack
 
-<b>Python Data Science Stack</b> - NumPy, Pandas, sciPy, scikit-learn, XGBoost, statsmodels, matplotlib, seaborn, plotly,  pandas-gbq, Dask, venv, Jupyter Notebook, Numba
+<b>Python Data Science Stack</b> - NumPy, Pandas, sciPy, scikit-learn, XGBoost, statsmodels, matplotlib, seaborn, plotly,  pandas-gbq, Dask, venv, Jupyter Notebook, Numba, Spark
 
 <b>Computer Vision</b> - scikit-image, openCV, Pillow
 
